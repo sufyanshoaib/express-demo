@@ -1,0 +1,7 @@
+
+{
+    "name": "My first app on development env",
+    "mail": {
+        "host": "mail-server-dev"
+    }    
+}
